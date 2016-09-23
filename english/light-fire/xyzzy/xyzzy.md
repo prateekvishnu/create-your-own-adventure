@@ -4,9 +4,10 @@ of the building and down a gully.
 
 Your adventure has now truly begun...thanks Crowthers, Woods, et al.
 
-In the direction the stream is flowing you see a distant tower, 
-with a signal fire at its tip. But a noise behind you betrays 
-the approach of a dark figure.
+In the direction the stream is flowing you see a distant tower,
+with a signal fire at its tip. But a noise behind you betrays
+the approach of a dark figure. You look around but don't find anyone.
+You can hear you heart pounding.
 
 [Stand petrified.](stand-petrified/meet-wizard.md)
 
